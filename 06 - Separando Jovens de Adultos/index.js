@@ -19,8 +19,6 @@ const usuario = [
         nome: "Antonio",
         idade: 32
     },
-
-
 ]
 const adultos = [];
 const jovens = [];
